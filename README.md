@@ -1,7 +1,7 @@
 eratosthenes
 ============
 
-This is a test GitHub repo. The only item contained herein is a solution in Java to Project Euler Problem 50. The solution uses a Sieve of Eratosthenes to generate a list of candidate primes.
+This is a test GitHub repo. The only item contained herein is a solution in Java to Project Euler Problem 50. The solution uses a Sieve of Eratosthenes to generate a list of candidate primes. The solution is computed quickly enough; other than Eratosthenes, no optimizations to memory or computational time will be evident.
 
 https://projecteuler.net/problem=50
 
